@@ -1,6 +1,6 @@
 cask "figghost" do
-  version "1.9.0"
-  sha256 "f0379cdea3176b4f5db0091a16eb56a88cd16ae0f63d9243d5434fea780dd4af"
+  version "2.0.0"
+  sha256 "d251b367a2f766712743c05fe30b9df335492fa9667639715fa4ffa2153e33e0"
 
   url "https://github.com/eliasbui/figghost/releases/download/v#{version}/Figghost-#{version}.zip"
   name "Figghost"
